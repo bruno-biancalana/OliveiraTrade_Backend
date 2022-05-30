@@ -5,11 +5,11 @@
   <img src="https://img.shields.io/badge/NODE_Js-success"/>
 </p>
 <p>
-  &nbsp Validação de um login simples feito em NODE, onde o usuário entra com email e senha. A conexão é feita com um banco de dados MongoAtlas.
+  &nbsp Backend em NodeJs de um formulário de login simples, em que o usuário se cadastra com email e uma senha qualquer (sem pré-requisito de dificuldade).
   <ul>
-    <li>Validação de email, com verificação e retorno caso o email já esteja cadastrado</li>
-    <li>Validação de senha com confirmação (A senha deve ser repetida na hora da criação)</li>
-    <li>Mensagens de erro informando ao usuário, via JSON, o erro que o sistema encontrou</li>
+    <li>Validação de email, com verificação e retorno caso o email já esteja cadastrado;</li>
+    <li>Validação de senha com confirmação (A senha deve ser repetida na hora da criação);</li>
+    <li>Mensagens de erro informando ao usuário, via JSON, o erro que o sistema encontrou;</li>
     <li>Conexão com um banco de dados Mongo Atlas (mongoose)</li>
   </ul>
 </p>
